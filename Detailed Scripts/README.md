@@ -1,1 +1,1 @@
-Corresponding Jupyter notebooks to seminar in ML. 
+Corresponding Jupyter notebooks in ML. 
